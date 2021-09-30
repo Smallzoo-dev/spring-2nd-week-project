@@ -1,1 +1,1 @@
-# spring-2nd-week-project-my-select-shop
+# spring-2nd-week-project
